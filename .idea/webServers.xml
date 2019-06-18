@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9be2bce9-b827-46b9-893f-1d5c96475a79" name="remote.ugrad.cs.ubc.ca" url="http://m0t1b@remote.ugrad.cs.ubc.ca">
+        <fileTransfer host="m0t1b@remote.ugrad.cs.ubc.ca" port="22" rootFolder="/home/m/m0t1b" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
